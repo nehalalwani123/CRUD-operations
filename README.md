@@ -9,7 +9,7 @@
     ```
 3. Next, run the application:
     ```bash
-    node app.js
+    nodemon app.js
     ```
  
 ### Seeding the database
